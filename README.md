@@ -3,6 +3,10 @@
 
 Wrist rotation based virtual keyboard
 
+[KCI Paper]  
+Comparative Usability Analysis of Wrist Rotation-based Virtual Keyboard and Virtual QWERTY Keyboard (2025-03-13)  
+doi: https://doi.org/10.14801/jkiit.2025.23.2.233
+
 ## 🕶️ Tested Device
 
 Samsung Odyssey Plus
